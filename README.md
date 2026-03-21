@@ -23,13 +23,6 @@
 
 ---
 
-## 🔗 Live Demo
-
-👉 https://stock-signalist.vercel.app
-
-
----
-
 ## 📌 Overview
 
 Stock Signalist is a modern web application built to simplify stock market analysis.  
@@ -139,8 +132,7 @@ NODEMAILER_PASSWORD=
 ---
 
 ## 🚧 Future Improvements
-
-- 🔔 Real-time alerts (Email / Telegram)  
+ 
 - 📱 Full mobile optimization  
 - 🧠 Advanced AI/ML predictions  
 - 📊 Portfolio analytics dashboard  
