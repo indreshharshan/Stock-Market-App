@@ -161,8 +161,8 @@ This project is licensed under the MIT License.
 
 **Indresh Harshan**
 
-- GitHub: https://github.com/indreshharshan  
-- LinkedIn: https://linkedin.com/in/indreshharshan 
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
