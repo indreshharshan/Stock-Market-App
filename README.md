@@ -74,15 +74,6 @@
 
 ---
 
-## 📸 Screenshots
-
-```
-Add screenshots here:
-- Dashboard UI
-- Stock charts
-- Signal predictions
-```
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -105,14 +96,31 @@ npm run dev
 
 ## 🌍 Environment Variables
 
-Create a `.env` file and add:
+Create a `.env` file in the root directory and add the following:
 
 ```env
-MONGO_URI=your_mongodb_connection_string
-NEXT_PUBLIC_API_KEY=your_stock_api_key
-NEXT_PUBLIC_API_URL=your_api_url
-```
+# === APP CONFIG ===
+NODE_ENV=
+NEXT_PUBLIC_BASE_URL=
 
+# === FINNHUB API ===
+NEXT_PUBLIC_FINNHUB_API_KEY=
+FINNHUB_BASE_URL=
+
+# === DATABASE ===
+MONGODB_URI=
+
+# === AUTHENTICATION ===
+BETTER_AUTH_SECRET=
+BETTER_AUTH_URL=
+
+# === AI (GEMINI) ===
+GEMINI_API_KEY=
+
+# === EMAIL SERVICE ===
+NODEMAILER_EMAIL=
+NODEMAILER_PASSWORD=
+```
 ---
 
 ## 📊 Use Cases
@@ -161,8 +169,8 @@ This project is licensed under the MIT License.
 
 **Indresh Harshan**
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/indreshharshan  
+- LinkedIn: https://linkedin.com/in/indreshharshan 
 
 ---
 
