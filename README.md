@@ -27,7 +27,6 @@
 
 👉 https://stock-signalist.vercel.app
 
----
 
 ---
 
