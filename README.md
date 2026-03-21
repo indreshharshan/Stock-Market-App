@@ -29,6 +29,15 @@
 
 ---
 
+---
+
+## 📌 Overview
+
+Stock Signalist is a modern web application built to simplify stock market analysis.  
+It provides real-time market data, AI-powered trading signals, and interactive visualizations to help users make informed investment decisions.
+
+---
+
 ## ✨ Features
 
 - 📈 Real-time stock tracking  
