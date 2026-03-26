@@ -79,7 +79,7 @@ It provides real-time market data, AI-powered trading signals, and interactive v
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/stock-signalist.git
+git clone https://github.com/indreshharshan/stock-signalist.git
 
 # Navigate to project folder
 cd stock-signalist
